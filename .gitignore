@@ -1,0 +1,12 @@
+*.iml
+.idea
+target
+.classpath
+.project
+.checkstyle
+/.settings/
+/.springBeans
+/local_configs
+java.generated
+application.properties
+/bin
